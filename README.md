@@ -1,5 +1,5 @@
 # UnityMidterm
-https://sakuraiyuki.github.io/UnityMidterm/
+遊戲網址: https://sakuraiyuki.github.io/UnityMidterm/
 
 主題:貓咪吃東西
 
@@ -17,6 +17,5 @@ https://sakuraiyuki.github.io/UnityMidterm/
 乳製品:乳糖不耐症
 
 
-
-https://crazypetter.com.tw/cats-and-dogs-cant-eat/
+參考資料: https://crazypetter.com.tw/cats-and-dogs-cant-eat/
 
